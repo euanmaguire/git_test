@@ -1,0 +1,2 @@
+Hello there!
+I'm trying to learn to stage and push with the command line :)
